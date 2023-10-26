@@ -13,7 +13,6 @@ sinnee = {
 
 }
 <!--
-**sinneeteoh/sinneeteoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on achieving an industrial recognised data engineering certificate to land on a new job. 
 - 🌱 I’m currently learning Python, Numpy, data pipelines.
